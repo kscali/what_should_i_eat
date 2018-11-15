@@ -1,8 +1,6 @@
 # WhatShouldIEat
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/what_should_i_eat`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to your new gem! This gem will help you choose a recipe from a parsed website if you can't decide what you want to eat. It will introduce you to a new recipe. 
 
 ## Installation
 
